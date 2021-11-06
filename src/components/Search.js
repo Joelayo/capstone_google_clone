@@ -1,5 +1,5 @@
 import React from 'react'
-import './Pages/Search.css'
+import './Search.css';
 import SearchIcon from '@mui/icons-material/Search';
 import MicIcon from '@mui/icons-material/Mic';
 import { Button } from '@mui/material';
@@ -16,7 +16,6 @@ function Search() {
             <div className='search__buttons'>
                 <Button variant='outlined' type='submit'>Google Search</Button>
                 <Button variant='outlined'>I'm Feeling Lucky</Button>
-                <Button />
             </div>
         </form>
     )

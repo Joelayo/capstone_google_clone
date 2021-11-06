@@ -1,5 +1,6 @@
 import React from 'react'
 import './Home.css'
+import Search from '../components/Search';
 import {Link} from 'react-router-dom';
 import { Avatar } from '@mui/material';
 import AppsRoundedIcon from '@mui/icons-material/AppsRounded';
@@ -23,7 +24,7 @@ function Home() {
                     alt='logo' 
                 />
                 <div className='home__inputContainer'>
-                    {/* <Search /> */}
+                    <Search />
                 </div>
             </div>
         </div>
