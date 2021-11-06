@@ -1,9 +1,8 @@
 import React from "react";
-import "./Footer.css";
+import "../styles/Footer.css";
 
 function Footer() {
   return (
-    <>
       <div className="footer_upper">
         <p className="country">Nigeria</p>
         <hr
@@ -27,7 +26,6 @@ function Footer() {
           </div>
         </div>
       </div>
-    </>
   );
 }
 
