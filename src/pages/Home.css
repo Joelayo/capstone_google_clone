@@ -1,3 +1,6 @@
+body {
+    background-color: #202124;
+}
 .home {
     display: flex;
     flex-direction: column;
@@ -14,7 +17,7 @@
   .home__header a {
     margin-right: 20px;
     text-decoration: inherit;
-    color: rgba(0, 0, 0, 0.87);
+    color: #f8f8f8;
     font-size: 15px;
   }
   
@@ -31,6 +34,7 @@
   
   .home__headerRight > .MuiSvgIcon-root {
     margin-right: 20px;
+    color: #f8f8f8;
   }
 
   .home__body {
