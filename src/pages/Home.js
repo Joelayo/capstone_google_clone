@@ -7,7 +7,6 @@ import { Avatar } from '@mui/material';
 function Home() {
     return (
         <div className='home'>
-            <h1>This is Homepage</h1>
             <div className='home__header'>
                 <div className='home__headerLeft'>
                     <Link to='/about'>About</Link>

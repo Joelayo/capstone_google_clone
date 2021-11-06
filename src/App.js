@@ -1,6 +1,6 @@
 import './App.css';
 import Home from './pages/Home';
-import {BrowserRouter as Router, Route, Routes} from "react-router-dom";
+import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
 
 function App() {
   return (
@@ -10,9 +10,7 @@ function App() {
           <Route path="/search">
             {/* <SearchPage /> */}
           </Route>
-          <Route path="/">
-            <Home />
-          </Route>
+          <Route path="/" element={<Home/>} />
         </Routes>
       </Router>
     </div>
