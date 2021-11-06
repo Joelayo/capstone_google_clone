@@ -1,5 +1,5 @@
 import React from 'react'
-import './Home.css'
+import '../styles/Home.css'
 import Search from '../components/Search';
 import {Link} from 'react-router-dom';
 import { Avatar } from '@mui/material';
