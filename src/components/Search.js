@@ -6,7 +6,7 @@ import { Button } from '@mui/material';
 
 function Search() {
     return (
-        <form className='search'>
+        <for className='search'>
             <div className='search__input'>
                 <SearchIcon className='search__inputIcon' />
                 <input />
@@ -17,7 +17,7 @@ function Search() {
                 <Button variant='outlined' type='submit'>Google Search</Button>
                 <Button variant='outlined'>I'm Feeling Lucky</Button>
             </div>
-        </form>
+        </for>
     )
 }
 
