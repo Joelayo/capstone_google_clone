@@ -18,7 +18,13 @@ function Home() {
                 </div>
             </div>
             <div className='home__body'>
-                <img src='https://internship.sidehustle.ng/img/logo-dark.64d45129.png' alt='logo' />
+                <img 
+                    src='https://internship.sidehustle.ng/img/logo-dark.64d45129.png' 
+                    alt='logo' 
+                />
+                <div className='home__inputContainer'>
+                    {/* <Search /> */}
+                </div>
             </div>
         </div>
     );
