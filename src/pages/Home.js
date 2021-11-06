@@ -14,8 +14,8 @@ function Home() {
                 <div className='home__headerLeft'>
                 </div>
                 <div className='home__headerRight'>
-                    <Link to='/gmail'>Gmail</Link>
-                    <Link to='/images'>Images</Link>
+                    <Link to='/'>Gmail</Link>
+                    <Link to='/'>Images</Link>
                     <AppsRoundedIcon />
                     <Avatar />
                 </div>
