@@ -1,3 +1,4 @@
+<<<<<<< HEAD:src/styles/Home.css
 body {
     background-color: #202124;
 }
@@ -65,3 +66,48 @@ body {
     }
     
     }
+=======
+*{
+  color: whitesmoke;
+}
+.home {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.home__header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 30px;
+  align-items: center;
+}
+
+.home__header a {
+  margin-right: 20px;
+  text-decoration: inherit;
+  color: white;
+  font-size: 15px;
+}
+
+.home__header a:hover {
+  text-decoration: underline;
+}
+
+.home__headerRight {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-width: 13vw;
+}
+
+.home__headerRight > .MuiSvgIcon-root {
+  margin-right: 20px;
+}
+
+.home__body {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+>>>>>>> 8de156b69cfe72d45f02ce62c486f093da6f0347:src/pages/Home.css
