@@ -8,6 +8,7 @@ import AppsRoundedIcon from "@mui/icons-material/AppsRounded";
 
 function Home() {
   return (
+      <>
     <div className="home">
       <div className="home__header">
         <div className="home__headerLeft"></div>
@@ -23,8 +24,9 @@ function Home() {
           <Search />
         </div>
       </div>
-      <Footer />
     </div>
+    <Footer />
+    </>
   );
 }
 export default Home;
