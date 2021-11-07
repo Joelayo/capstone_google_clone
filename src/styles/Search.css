@@ -79,6 +79,11 @@
   }
   .search__input {
     height: 20px;
-    width: min-content;
   }
+}
+
+@media screen and (max-width: 345px){
+.search__input {
+  width: min-content;
+}
 }
