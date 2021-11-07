@@ -19,17 +19,12 @@
   background-color: inherit;
 }
 
-/*.search__input > input:hover {
-  box-shadow: 0 1px 1px #303134;
-  background-color: #303134;
-}
-
 .search__input > input:focus {
   outline-width: 0;
   outline: none;
   box-shadow: 0 1px 1px #303134;
-  background-color: #303134;
-}*/
+  border: 0px none;
+}
 
 .search__inputIcon {
   color: gray;
@@ -83,6 +78,7 @@
     outline: none;
   }
   .search__input {
+    display: flex;
     height: 20px;
   }
 }
