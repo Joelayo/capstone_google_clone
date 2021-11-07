@@ -53,6 +53,7 @@
   .footer{
       display: block;
       margin-left: 8%;
+      height: auto;
   }
   .footer_bottom2{
       margin-left: 0;
