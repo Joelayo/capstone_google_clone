@@ -23,7 +23,7 @@ function Search() {
         <div className="home__text">
           <p> {text} </p>
         </div>
-        <img src={image} className="App-logo" />
+        <img src={image} className="App-logo" alt=" " />
       </div>
       <form className="search">
         <div className="search__input">
