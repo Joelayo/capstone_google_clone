@@ -79,5 +79,6 @@
   }
   .search__input {
     height: 20px;
+    width: min-content;
   }
 }
