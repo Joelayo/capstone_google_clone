@@ -3,7 +3,7 @@ import "../styles/Search.css";
 import SearchIcon from "@mui/icons-material/Search";
 import MicIcon from "../components/MicIcon";
 import { Button } from "@mui/material";
-import sidehustle from "../sidehustle.png";
+import sidehustle from "../images/sidehustle.png";
 
 function Search() {
   const [text, setText] = useState(null);
@@ -11,7 +11,7 @@ function Search() {
   function handleChange(event) {
     setText(event.target.value);
 
-    if (event.target.value.length != 0) {
+    if (event.target.value.length !== 0) {
       setImage(null);
     } else {
       setImage(sidehustle);
