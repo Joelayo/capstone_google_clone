@@ -4,7 +4,6 @@ import Search from "../components/Search";
 import { Link } from "react-router-dom";
 import { Avatar } from "@mui/material";
 import Footer from "./Footer";
-import sidehustle from "../sidehustle.png";
 import AppsRoundedIcon from "@mui/icons-material/AppsRounded";
 
 function Home() {
