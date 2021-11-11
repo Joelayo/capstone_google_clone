@@ -1,3 +1,14 @@
+# Project Contributors
+
+Ayda Sultan         -    SH-IT-0072986
+Joel Oduyemi        -    SH-IT-0102629
+Johshu Ojini        -    SH-IT-004360
+Abazie Udochukwu    -    SH-IT-00632668
+Oni Ebunoluwa       -    SH-IT-0065471
+Ahmed Abdulrahman   -    SH-IT-0065988
+
+### [Article Link](https://teammorghulis.hashnode.dev/sidehustle-internship-experience-with-reactjs).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
