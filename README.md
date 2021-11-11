@@ -12,7 +12,7 @@ Oni Ebunoluwa       -    SH-IT-0065471
 
 Ahmed Abdulrahman   -    SH-IT-0065988
 
-### [Article Link](https://teammorghulis.hashnode.dev/sidehustle-internship-experience-with-reactjs).
+### [Article Link](https://teammorghulis.hashnode.dev/sidehustle-internship-experience-with-reactjs)
 
 # Getting Started with Create React App
 
